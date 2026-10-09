@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Environment variables and secrets
+.env
+
+# IDE settings
+.vscode/
+
+# Training outputs and checkpoints (uncomment if you don't want to upload them)
+# checkpoints/
